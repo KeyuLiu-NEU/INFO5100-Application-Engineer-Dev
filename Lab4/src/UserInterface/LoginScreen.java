@@ -119,10 +119,8 @@ public class LoginScreen extends javax.swing.JPanel {
                 JOptionPane.showMessageDialog(this, "Please Enter a valid password\n"
                                                 );
             }
-            else {
-                JOptionPane.showMessageDialog(this,"Ensure you have selected correct Supplier/Customer");
                 
-            }
+            
             
         }
     }//GEN-LAST:event_btnSubmitActionPerformed
